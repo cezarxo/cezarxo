@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cezarxo" alt="cezarxo" /></a> </p>
 
-- 🔭 I’m currently working on [Premium personal trainer](https://ppt-uae.vercel.app/)
+- 🔭 I’m currently working on [Islamic Numises](https://www.islamicnumis.com/)
 
 - 🌱 I’m currently learning **IBM Full Stack Certification**
 
